@@ -1,5 +1,5 @@
 # AWS Elastic Beanstalk NGINX HTTPS
-Sample project enabling HTTPS on Node.JS + NGINX platform
+Sample project enabling HTTPS on NGINX + Node.JS platform
 
 ## Obtain the project
 Clone the GitHub repository
